@@ -1,0 +1,1 @@
+Updated App.tsx to show a centered yellow square on red background. Added necessary CSS styling.
